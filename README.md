@@ -1,5 +1,5 @@
 # Priority-Queue-Task-Manager-Java-
-Implements a task priority queue using MaxHeap.
+Description: Implement a priority queue system where users can add, remove, and process tasks based on priority.
 
 Uses a MaxHeap to manage tasks.
 Allows users to add tasks with different priority levels.
